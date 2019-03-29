@@ -8,7 +8,7 @@
 ![alt text](doc/Friendsr2.png)
 
 #### Third Screenshot = Landscape
-![alt text](doc/Friends1landscape.png)
+![alt text](doc/Friendsr1landscape.png)
 
 #### Fourth Screenshot = Landscape
-![alt text](doc/Friends2landscape.png)
+![alt text](doc/Friendsr2landscape.png)

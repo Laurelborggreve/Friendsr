@@ -65,12 +65,12 @@ public class ProfileActivity extends AppCompatActivity {
 
         if (likesStored != 0) {
             retrievedFriend.setProfileLiked(likesStored);
-            amountOfLikes.setText("Profile is liked: \n" + likesStored + " times");
+            amountOfLikes.setText(nameIndividual + " is liked: \n" + likesStored + " times");
             friendLikedButtonClicked = true;
         }
         else {
             retrievedFriend.setProfileLiked((float) 0);
-            amountOfLikes.setText("Profile is liked: \n 0.0 times");
+            amountOfLikes.setText(nameIndividual + " is liked: \n 0.0 times");
         }
 
         // Set name, bio, rating and picture of the user
@@ -100,7 +100,7 @@ public class ProfileActivity extends AppCompatActivity {
                 friendLiked++;
 
                 // Show amount of likes
-                amountOfLikes.setText("Profile is liked: \n" + friendLiked + " times");
+                amountOfLikes.setText(nameIndividual + " is liked: \n" + friendLiked + " times");
 
                 // Show the user that he liked the profile
                 Toast.makeText(getApplicationContext(), " You liked " + nameIndividual, Toast.LENGTH_SHORT).show();
@@ -127,7 +127,7 @@ public class ProfileActivity extends AppCompatActivity {
                 float totalLikes = likesStored + friendLiked;
 
                 // Show amount of likes
-                amountOfLikes.setText("Profile is liked: \n" + totalLikes + " times");
+                amountOfLikes.setText(nameIndividual + " is liked: \n" + totalLikes + " times");
 
                 // Show the user that he liked the profile
                 Toast.makeText(getApplicationContext(), " You liked " + nameIndividual, Toast.LENGTH_SHORT).show();

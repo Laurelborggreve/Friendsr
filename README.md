@@ -8,7 +8,7 @@
 <img width="250" height="500" src="https://github.com/Laurelborggreve/Friendsr/blob/master/doc/Friendsr2.png">
 
 #### Third Screenshot = Landscape
-<img width="550" height="500" src="https://github.com/Laurelborggreve/Friendsr/blob/master/doc/Friendsr1landscape.png">
+<img width="650" height="300" src="https://github.com/Laurelborggreve/Friendsr/blob/master/doc/Friendsr1landscape.png">
 
 #### Fourth Screenshot = Landscape
-<img width="550" height="500" src="https://github.com/Laurelborggreve/Friendsr/blob/master/doc/Friendsr2landscape.png">
+<img width="650" height="300" src="https://github.com/Laurelborggreve/Friendsr/blob/master/doc/Friendsr2landscape.png">

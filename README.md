@@ -1,7 +1,7 @@
 # Friendsr
 
 #### First Screenshot
-![alt text](doc/Friendsr1.png)
+<img width="500" height="650" src="https://github.com/Laurelborggreve/Friendsr/blob/master/doc/Friendsr1.png">
 
 #### Second Screenshot 
 ##### I have done extra: Add a Like Button and keep track of 'Amount of Likes'
